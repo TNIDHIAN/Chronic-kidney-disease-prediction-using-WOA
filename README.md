@@ -30,7 +30,8 @@ IDE: Google Colab.
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![Screenshot 2023-11-25 133637](https://github.com/TNIDHIAN/Chronic-kidney-disease-prediction-using-WOA/blob/main/architecture%20diagram.png
+)
 
 
 ## Output
@@ -41,7 +42,7 @@ IDE: Google Colab.
 ![Screenshot 2023-11-25 134037](https://github.com/TNIDHIAN/Chronic-kidney-disease-prediction-using-WOA/blob/main/Screenshot%20(627).png)
 
 #### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+![Screenshot 2023-11-25 134253](https://github.com/TNIDHIAN/Chronic-kidney-disease-prediction-using-WOA/blob/main/Screenshot%20(628).png)
 
 Detection Accuracy: 96.7%
 Note: These metrics can be customized based on your actual performance evaluations.
@@ -49,10 +50,18 @@ Note: These metrics can be customized based on your actual performance evaluatio
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
-
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+WOA improves the performance of all classifiers based on 
+this analysis. LRC accuracy is fine-tuned from 88.1% to 
+92.5% due to WOA, while DTC accuracy is finetuned from 
+90.1% to 92.85%. RFC performance has increased from 95.0 
+to 98.80%. As a result, the proposed RFC+ WOA is chosen 
+for final CKD prediction. 
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+1.K.Ganesh, P. Kishore and Anitha Julian (2024). Ocular 
+disease recognition using machine learning in Artificial 
+Intelligence,Blockchain,Computing and Security, 2:504-508, 
+CRC Press. 
+2.Debabrata Swain (2023). A robust chronic kidney disease 
+classifier using machine learning,Journal of electronics,   
+12(1):212-220.
